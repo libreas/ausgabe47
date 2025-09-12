@@ -1,0 +1,5 @@
+---
+
+**Simone Franz** (<https://orcid.org/0000-0003-4525-6977>) ist promovierte Frühneuzeithistorikerin und wissenschaftliche Bibliothekarin. Derzeit ist sie wissenschaftliche Mitarbeiterin im Bereich Publikationsdienste der Technischen Informationsbibliothek und Datenmanagerin im Projekt "Prize Papers. Erschließung – Digitalisierung – Präsentation" (Niedersächsische Akademie der Wissenschaften zu Göttingen/Carl von Ossietzky Universität Oldenburg, Institut für Geschichte). Sie studierte Geschichte und Europäische Ethnologie an der Humboldt-Universität zu Berlin sowie Archival Studies und Niederlandistik an der Universiteit Leiden (Niederlande).
+
+**Maxi Kindling** ist promovierte Informationswissenschaftlerin und leitet die Abteilung Publikationsdienste an der Universitätsbibliothek der Technischen Universität Berlin. Zum Zeitpunkt der Arbeit mit dem oa.atlas war sie Leiterin des Open-Access-Büros Berlin, einem von sechs Projektpartnern im BMBF-geförderten Projekt open-access.network. 

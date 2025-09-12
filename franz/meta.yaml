@@ -1,0 +1,21 @@
+---
+
+layout: page
+lang: "de"
+journal: "LIBREAS. Library Ideas"
+issue: "47"
+year: "2025"
+contributor: 
+- Simone Franz
+- Maxi Kindling
+title: "Offene Wissenschaft kartieren. Status quo von Open-Access-Strategien und Infrastrukturangeboten an deutschen Universitäten und Hochschulen im oa.atlas"
+abstract: "Der Beitrag stellt das Angebot des oa.atlas vor und bietet anhand von vier exemplarischen Kategorien Einblicke in den Stand von Open Access an deutschen Universitäten und Hochschulen."
+abstractalt: "The article introduces the oa.atlas service and illustrates the status of Open Access at German universities and higher education institutions using four exemplary categories."
+pdf: "main.pdf"
+doi: "10.18452/x"
+date: 2025-09-20
+comments: false
+sharing: true
+footer: true
+
+---
