@@ -314,7 +314,7 @@ Waldhandschrift.
 |                    | [Autor*innenregister] | 234–236           |
 |                    | [Abschlussgedicht]    | Innenseite hinten |
 
-table: Tabelle 1: Inhalt der Waldhandschrift*
+table: Tabelle 1: Inhalt der Waldhandschrift
 
 Ohne genaue Analyse ist es schwer zu begründen, aber die Texte
 vermitteln immer den Eindruck, explizit in den 1980er Jahren geschrieben
@@ -746,7 +746,7 @@ nur ihn überzeugt, sondern eine ganze Reihe von Autor\*innen,
 Skriptor\*innen und anderen Personen sowie eine Zahl von mittelgebenden
 Organisationen.
 
-\*\*\*
+---
 
 Ich weiss nicht, auch jetzt, nachdem ich die Waldhandschrift gesehen und
 in ihr gelesen habe, ob mich das Objekt als «Kulturtat» überzeugt.
@@ -925,7 +925,7 @@ späteren Besuchen in der Stiftsbibliothek anhand der Waldhandschrift zu
 klären. Dennoch ist klar, dass dieses Verfahren -- welches durch die
 Vorgaben zur Handhabung der Waldhandschrift und die vorhandenen
 Ressourcen (insbesondere die zur Verfügung stehende Zeit) bedingt waren
--- in weiteren Forschungen verbessert werden können.
+-- in weiteren Forschungen verbessert werden kann.
 
 [^1]: In einer anderen Version als der Präambel liegen die
     Nutzungsbedingungen auch gedruckt vor (Scarpatetti & Schäffel 1991:
