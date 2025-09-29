@@ -313,11 +313,6 @@ nutzen, um Studienanfänger\*innen den wissenschaftlichen Schreibprozess
 bei Hausarbeiten näherzubringen oder einer jüngeren Zielgruppe einen
 Einstieg in Informationskompetenz im Web zu geben.
 
-Es ist beabsichtigt, das Konzept, sowie die dazugehörigen Materialien
-als Open Educational Resources (OER) unter der offenen Lizenz CC BY NC
-4.0
-([https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/))
-bereitzustellen und auf Zenodo zu veröffentlichen.
 
 
 ### Quellen
