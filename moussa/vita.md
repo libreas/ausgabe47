@@ -1,0 +1,3 @@
+---
+
+**Salim Moussa** (<https://orcid.org/0000-0003-2589-0719>) is a researcher and lecturer in marketing at the Institut Supérieur d'Administration des Entreprises (ISAE), University of Gafsa, Tunisia. His research focuses on scholarly communication, publication ethics, and the integrity of the academic record.
